@@ -1,0 +1,5 @@
+{
+  "name": "Remix: TAO DE AI",
+  "description": "An intelligent English exam generator that creates new tests based on the structure of uploaded sample Word documents, tailored to specific topics and grammar points.",
+  "requestFramePermissions": []
+}
